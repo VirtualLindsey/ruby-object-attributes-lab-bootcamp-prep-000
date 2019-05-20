@@ -6,7 +6,8 @@ class Dog
   end 
   
   #setter
-  def name 
-    name = @name
+  def name=(name)
+    @name = name
   end 
+  
 end 
