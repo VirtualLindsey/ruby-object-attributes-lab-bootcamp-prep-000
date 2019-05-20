@@ -12,5 +12,5 @@ class Person
     @job
   end
   
-  
+  def job=(job)
 end 
